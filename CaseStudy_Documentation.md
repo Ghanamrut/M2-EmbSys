@@ -19,14 +19,20 @@ Case Study - Embedded System For Robotic Arm And UGV
 [Low Level Requirements](#_Toc96252516)
 
 Applications
+The applications of UGVs and Bionic arms can be combined and integrated ahead to be converted into other applications such as:-
+ 1) Pick and place functions.
+2) Fire extinguishing operations.
+3) Bomb defusal.
+4) Medical surgery for remote use.
+5) Sanitization purposes. (UV light spreading or sanitizer spraying)
+6) Agricultural functions (weed plucking, pesticide spraying, etc.).
+7) Firecrackers industry.
+8) Nuclear plant projects, thermal power plants.
+9) Military Applications and operations.
+10) Waste management.
 
-# 
 
-# 
 
-# 
-
-# 
 
 Embedded System Design for Robotic arm and Unmanned Ground Vehicle
 
@@ -47,16 +53,17 @@ movement.
 
 **Flowchart and Block Diagram:-**
 
-![D:\\WhatsApp Image 2022-02-20 at 10.43.25
-AM.jpeg](media/5acf136776c1fe9c7b3ea46e57074843.jpeg)
+![image](https://user-images.githubusercontent.com/98812321/154853087-aaf6e6a4-0187-45f9-8f3f-b23dbe8786b5.png)
 
 **UGV:-**
+![Screenshot (968)](https://user-images.githubusercontent.com/98812321/154853353-24416dbe-14ec-42d3-be40-dd24aea8ecb0.png)
 
 Using one Arduino UNO for the operation of DC motors attached at the left and
 right wheels for their up, down, left, right movement which are controlled by
 four tilt sensors.
 
 **Robotic Arm and Wrist:-**
+![Screenshot (969)](https://user-images.githubusercontent.com/98812321/154853370-de3f4bb2-7d00-422d-a6f7-9f9b4b400228.png)
 
 Using two Arduino UNO:-
 
