@@ -56,6 +56,7 @@ movement.
 ![image](https://user-images.githubusercontent.com/98812321/154853087-aaf6e6a4-0187-45f9-8f3f-b23dbe8786b5.png)
 
 **UGV:-**
+
 ![Screenshot (968)](https://user-images.githubusercontent.com/98812321/154853353-24416dbe-14ec-42d3-be40-dd24aea8ecb0.png)
 
 Using one Arduino UNO for the operation of DC motors attached at the left and
@@ -77,16 +78,15 @@ Using two Arduino UNO:-
     **Component Details:-**
 
     Requirement of UGV simulation:-
+    
 
-    ![D:\\WhatsApp Image 2021-11-06 at 10.38.12
-    PM.jpeg](media/fc29675cfe17a1c7ec8dc118e95543ca.jpeg)
+![image](https://user-images.githubusercontent.com/98812321/154853449-76fb8e8b-5120-4203-a4e3-f11c4be46ecf.png)
 
     Requirement of Arm simulation:-
+    
 
-    ![D:\\WhatsApp Image 2021-11-06 at 10.38.12 PM
-    (1).jpeg](media/bd1bf65230aa82fc1739ada9aacf5de9.jpeg)
-
-3.  Microcontroller: -
+ ![image](https://user-images.githubusercontent.com/98812321/154853460-157c76d4-13c1-4d83-9ac2-d10c0e8d8fe6.png)
+1.  Microcontroller: -
 
     Arduino Uno is a microcontroller board based on the ATmega328P. It has 14
     digital input/output pins (of which 6 can be used as PWM outputs), 6 analog
@@ -95,7 +95,7 @@ Using two Arduino UNO:-
     to support the microcontroller; simply connect it to a computer with a USB
     cable or power it with a AC-to-DC adapter or battery to get started.
 
-4.  Tilt Sensor: -
+2.  Tilt Sensor: -
 
     A tilt sensor, or tilt switch, is a device used for measuring the tilt of an
     object in multiple axes with reference to an absolute level plane. Tilt
@@ -104,17 +104,17 @@ Using two Arduino UNO:-
     UGV thereby actuating the dc motor accordingly and up or down movement of
     wrist thereby actuating the servo.
 
-5.  Flex Sensor:-
+3.  Flex Sensor:-
 
     A flex sensor or bend sensor is a sensor that measures the amount of
     deflection or bending. Here it will be used to sense the deflection by
     bending each finger and subsequently driving the servo accordingly.
 
-6.  Servo Motor:-
+4.  Servo Motor:-
 
     Used to move the wrist and independent finger movements.
 
-7.  DC Motor:-
+5.  DC Motor:-
 
     Used to move the wheels of the UGV.
 
