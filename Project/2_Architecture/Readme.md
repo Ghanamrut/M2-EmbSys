@@ -44,10 +44,10 @@ Using two Arduino UNO:-
 
 3.  **UGV: -**
 
-![D:\\Flowchart.png](media/cb9d12369c860365578a7e787b7cb478.png)
+![Flowchart](https://user-images.githubusercontent.com/98812321/155835354-f728a72a-9f78-4cad-a101-0fa113aa73e4.png)
 
 1.  **Robotic Arm: -**
 
-    **![D:\\Flowchart2 (1).png](media/3d95be0322e4f0fd1cc9758202388da1.png)**
+    **![Flowchart2 (1)](https://user-images.githubusercontent.com/98812321/155835367-4afba306-77cb-4850-9b8b-1d1ab9a7f20d.png)**
 
-    **![D:\\Flowchart1.png](media/d87fd53be0763c31d5544257044f8c40.png)**
+    **![Flowchart1](https://user-images.githubusercontent.com/98812321/155835371-d6cbc4bc-a141-481d-b936-94ebe4034bbb.png)**
