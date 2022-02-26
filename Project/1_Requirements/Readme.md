@@ -4,7 +4,7 @@ Prepared By: - Ghanamrut.V.Marathe
 
 Version: - 1.0
 
-**Contents:-**
+# **Contents:-**
 
 **1) Abstract**
 
@@ -32,7 +32,7 @@ Version: - 1.0
 
 # 
 
-1.  **Abstract**: -
+# 1.  **Abstract**: -
 
 Automation and Robotics sector is an advanced and the fastest growing sector in
 the industry. Basic products made in robotics would be manipulators, UAVs
@@ -47,9 +47,9 @@ independent Robotic Arm shall be made using embedded systems circuit design
 using various microprocessor (Arduino Uno)and sensors (Ultrasonic,
 Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
 
-1.  **Requirements: -**
+# 2.  **Requirements: -**
 
-**A) High Level Requirements: -**
+# **A) High Level Requirements: -**
 
 | ID   | Description                                                                                                                                                                     |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -59,7 +59,7 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
 | HR04 | The Finger movement will be captured by potentiometer and then accordingly the servo motors of each finger shall be able to move for the specific setting of the potentiometer. |
 | HR05 | The Ultrasonic Sensor shall measure distance between UGV front part and object as the UGV is set in motion.                                                                     |
 
-**B) Low Level Requirements: -**
+# **B) Low Level Requirements: -**
 
 | ID   | Description                                                                                                                                                                                                                                                                                                                                                   |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -68,7 +68,7 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
 | LH03 | W.R.T finger movement: -Map potentiometer value with correct range for servo motor and use constrain to keep it in required range (0-180 degree).Keeping a delay to wait till servo motor reaches desired position.                                                                                                                                           |
 | LH04 | The LCD Display shall show the distance between object and UGV front part as measured by Ultrasonic Sensor                                                                                                                                                                                                                                                    |
 
-1.  **Component Details: -**
+# 3.  **Component Details: -**
 
 2.  UGV simulation:-
 
@@ -136,7 +136,7 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
     object's proximity. Here it is used to sense obstacle to alert user w.r.t
     the UGV movement.
 
-**4) S.W.O.T Analysis: -**
+# 4. ** S.W.O.T Analysis: -**
 
 **![Screenshot (1037)](https://user-images.githubusercontent.com/98812321/155835256-7b936db2-d088-49a0-963b-0f28cf3f5b0a.png)**
 
@@ -198,32 +198,32 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
     system hardware and software required has risen highly leading to their
     availability in the market at low costs.
 
-3.  **5 Ws And 1 H: -**
+# 5.  **5 Ws And 1 H: -**
 
-4.  **Why: -** The Project is made to achieve the embedded system design for a
+1.  **Why: -** The Project is made to achieve the embedded system design for a
     robotic arm mounted on a UGV used for various functions and applications.
 
-5.  **What: -** The Project utilizes Microcontrollers, various types of analog
+2.  **What: -** The Project utilizes Microcontrollers, various types of analog
     and digital sensors such as Joystick sensor and Ultrasonic sensor to actuate
     different motors which facilitate the movement of the UGV as well as the
     robotic arm.
 
-6.  **Who: -** The Project is aimed for application in sectors such as Medical,
+3.  **Who: -** The Project is aimed for application in sectors such as Medical,
     Military, Industrial, Agriculture and Transport.
 
-7.  **When: -** The Project shall be completed in 4 weeks’ time.
+4.  **When: -** The Project shall be completed in 4 weeks’ time.
 
-8.  **Where: -** The Project shall be made on Simulide software and visual
+5.  **Where: -** The Project shall be made on Simulide software and visual
     studio code.
 
-9.  **How: -** The Project shall be completed step by step capturing the
+6.  **How: -** The Project shall be completed step by step capturing the
     requirements, sketching out the block diagrams and flowchart, deciding the
     components and code design, building the circuit, utilize the code for the
     circuit and upon completion of these steps finally the project shall achieve
     a successful simulation of an embedded system design for a robotic arm
     mounted on a UGV.
 
-**6) Applications**: -
+# **6) Applications**: -
 
 The applications of UGVs and Bionic arms can be combined and integrated ahead to
 be converted into other applications such as:-
@@ -248,14 +248,14 @@ be converted into other applications such as:-
 
 10) Waste management.
 
-1.  **Modifications According to Application: -**
+# 7.  **Modifications According to Application: -**
 
-2.  Moisture Sensor: - Can be added to below UGV to detect soil moisture if the
+1.  Moisture Sensor: - Can be added to below UGV to detect soil moisture if the
     project is to be applied for agricultural purposes.
 
-3.  Sanitizer Spray: - Can be added if project is to be applied in hospitals,
+2.  Sanitizer Spray: - Can be added if project is to be applied in hospitals,
     offices for sanitization processes.
 
-4.  Accelerometers and Gyroscope: - Can be added when the arm is needed for
+3.  Accelerometers and Gyroscope: - Can be added when the arm is needed for
     higher accuracy purposes such as medical surgery then wrist will require all
     around movement exactly replicating human wrist.
