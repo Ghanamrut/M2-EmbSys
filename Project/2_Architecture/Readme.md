@@ -19,9 +19,7 @@
 **B) Robotic Arm**
 
 # 1.  **Structural Design**
-
-    **Block Diagram:-**
-
+**Block Diagram**
 A.  **UGV: -**
 
 
@@ -50,7 +48,8 @@ Using two Arduino UNO:-
 
 # 2.  **Behavoiral Design**
 
-    **Flowchart:-**
+**Flowchart**
+
 
 A.  **UGV: -**
 
