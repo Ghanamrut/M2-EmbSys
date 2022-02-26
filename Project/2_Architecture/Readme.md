@@ -24,12 +24,22 @@
 
 A.  **UGV: -**
 
+
+![Screenshot (1041)](https://user-images.githubusercontent.com/98812321/155835923-98c1ef07-f2e3-4d22-bc29-32d09ad25b23.png)
+
+
+
 Using one Arduino UNO for the operation of DC motors attached at the left and
 right wheels for their up, down, left, right movement which are controlled by
 the joystick. The Arduino is also used for the Ultrasonic sensor to display the
 distance of an object from the UGV.
 
 B.  **Robotic Arm: -**
+
+
+![Screenshot (1040)](https://user-images.githubusercontent.com/98812321/155835932-c01f86d0-5c1a-406c-9394-fe3ff2fb958d.png)
+
+
 
 Using two Arduino UNO:-
 
@@ -48,9 +58,9 @@ A.  **UGV: -**
 
 B.  **Robotic Arm: -**
 
-    ![Flowchart2 (1)](https://user-images.githubusercontent.com/98812321/155835693-a36a2d3f-e9fc-4a2a-a97d-948a718dd908.png)
+ ![Flowchart2 (1)](https://user-images.githubusercontent.com/98812321/155835693-a36a2d3f-e9fc-4a2a-a97d-948a718dd908.png)
     
     
-    ![Flowchart1](https://user-images.githubusercontent.com/98812321/155835720-06189d8b-1286-4466-a5fd-1ee68d52c0d6.png)
+ ![Flowchart1](https://user-images.githubusercontent.com/98812321/155835720-06189d8b-1286-4466-a5fd-1ee68d52c0d6.png)
 
 
