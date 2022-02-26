@@ -136,7 +136,7 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
     object's proximity. Here it is used to sense obstacle to alert user w.r.t
     the UGV movement.
 
-# 4. ** S.W.O.T Analysis: -**
+# 4. S.W.O.T Analysis: -
 
 **![Screenshot (1037)](https://user-images.githubusercontent.com/98812321/155835256-7b936db2-d088-49a0-963b-0f28cf3f5b0a.png)**
 
