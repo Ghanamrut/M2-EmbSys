@@ -49,6 +49,8 @@ A.  **UGV: -**
 B.  **Robotic Arm: -**
 
     ![Flowchart2 (1)](https://user-images.githubusercontent.com/98812321/155835693-a36a2d3f-e9fc-4a2a-a97d-948a718dd908.png)
+    
+    
     ![Flowchart1](https://user-images.githubusercontent.com/98812321/155835720-06189d8b-1286-4466-a5fd-1ee68d52c0d6.png)
 
 
