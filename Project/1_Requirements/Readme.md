@@ -223,7 +223,7 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
     a successful simulation of an embedded system design for a robotic arm
     mounted on a UGV.
 
-# **6) Applications**: -
+# **6. Applications**: -
 
 The applications of UGVs and Bionic arms can be combined and integrated ahead to
 be converted into other applications such as:-
