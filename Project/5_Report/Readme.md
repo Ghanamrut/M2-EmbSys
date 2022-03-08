@@ -690,7 +690,8 @@ void loop()
 
 
 # 9. Test Plan And Output: -
-![WhatsApp Image 2022-03-08 at 5 45 33 PM](https://user-images.githubusercontent.com/98812321/157236607-e9be5044-89f9-477d-bb51-f8b75b21a5fd.jpeg)
+![WhatsApp Image 2022-03-08 at 10 36 22 PM](https://user-images.githubusercontent.com/98812321/157291529-a1c4307e-b934-4a8e-ad70-bafaf1b13099.jpeg)
+
 
 # Simulation Images And Videos
 ## Videos Have been uploaded in the 6_ImagesAndVideos folder 
