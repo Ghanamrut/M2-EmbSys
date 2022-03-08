@@ -1,8 +1,8 @@
 # Implementation: -
-###•	The Project simulation is done in Simulide software using Arduino code written in Arduino Ide. There are three code files for each Arduino Uno 
-1) For UGV Simulation 
-2)For Wrist Movement Simulation 
-3)Finger Movement Simulation.
+## The Project simulation is done in Simulide software using Arduino code written in Arduino Ide. There are three code files for each Arduino Uno 
+## 1) For UGV Simulation 
+## 2)For Wrist Movement Simulation 
+## 3)Finger Movement Simulation.
 ## The UGV , Wrist Movement , and Finger movement folders respectively have the .ino, .hex, and .ino files for the codes inside them
 ## Circuit Diagrams And Code: -
 ### 1)	UGV
