@@ -229,27 +229,9 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
     circuit and upon completion of these steps finally the project shall achieve
     a successful simulation of an embedded system design for a robotic arm
     mounted on a UGV.
-# Project - Embedded System For Robotic Arm And UGV
 
-# **Contents:-**
 
-**1) Structural Design**
-
-**Block Diagram**
-
-**A) UGV**
-
-**B) Robotic Arm**
-
-**2) Behavioral Design**
-
-**Flowchart**
-
-**A) UGV**
-
-**B) Robotic Arm**
-
-# 1.  **Structural Design**
+# 6.  **Structural Design**
 **Block Diagram**
 A.  **UGV: -**
 
@@ -277,7 +259,7 @@ Using two Arduino UNO:-
     independent movement using five potentiometers for every angle movement of a
     finger and five servo motors variated by the use of the potentiometers.
 
-# 2.  **Behavoiral Design**
+# 7.  **Behavoiral Design**
 
 **Flowchart**
 
