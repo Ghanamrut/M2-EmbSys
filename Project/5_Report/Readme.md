@@ -230,7 +230,7 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
     a successful simulation of an embedded system design for a robotic arm
     mounted on a UGV.
 
-# **6. Applications**: -
+# **10. Applications**: -
 
 The applications of UGVs and Bionic arms can be combined and integrated ahead to
 be converted into other applications such as:-
@@ -255,7 +255,7 @@ be converted into other applications such as:-
 
 10) Waste management.
 
-# 7.  **Modifications According to Application: -**
+# 11.  **Modifications According to Application: -**
 
 1.  Moisture Sensor: - Can be added to below UGV to detect soil moisture if the
     project is to be applied for agricultural purposes.
