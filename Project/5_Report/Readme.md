@@ -23,9 +23,21 @@ Version: - 1.0
 
 **5) 5 Ws 1H**
 
-**6) Applications**
+**6) Structural Design**
+**Block Diagram**
+**A)** [**UGV**]
+**B)** [**Robotic Arm**]
 
-**7) Modifications According To Application**
+**7) Behavioral Design**
+**Flowchart**
+**A)** [**UGV**]
+**B)** [**Robotic Arm**]
+
+**8) Implementation**
+**9) Test Plan and Output**
+**10) Applications**
+
+**11) Modifications According To Application**
 
 # 
 
