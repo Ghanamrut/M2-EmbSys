@@ -27,17 +27,17 @@ Version: - 1.0
 
 **Block Diagram**
 
-**A)**UGV**
+**A)UGV**
 
-**B)**Robotic Arm**
+**B)Robotic Arm**
 
 **7) Behavioral Design**
 
 **Flowchart**
 
-**A)** UGV**
+**A) UGV**
 
-**B)** Robotic Arm**
+**B) Robotic Arm**
 
 **8) Implementation**
 
