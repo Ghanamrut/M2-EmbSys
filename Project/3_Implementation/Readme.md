@@ -1,12 +1,11 @@
 # Implementation: -
 •	The Project simulation is done in Simulide software using Arduino code written in Arduino Ide. There are three code files for each Arduino Uno 1) For UGV Simulation 2)For Wrist Movement Simulation 3)Finger Movement Simulation.
 #	Circuit Diagrams And Code: -
-# 1)	UGV
-# Circuit Diagram: -
+## 1)	UGV
+## Circuit Diagram: -
  
 
-
-** Code:- **
+## Code:- 
 #include <LiquidCrystal.h> 
 #include <DC_Motor.h>
 #define echoPin 2 // attach pin D2 Arduino to pin Echo of HC-SR04
