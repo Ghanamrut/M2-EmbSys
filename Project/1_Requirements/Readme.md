@@ -69,11 +69,12 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
 
 # 3.  **Component Details: -**
 
-2.  UGV simulation:-
+1.  UGV simulation:-
+
 ![Screenshot (1141)](https://user-images.githubusercontent.com/98812321/157239055-c3db479e-e0d9-49cf-894d-e71ea4b930f5.png)
 
 
-1.  Arm simulation:-
+2.  Arm simulation:-
 
 ![Screenshot (1140)](https://user-images.githubusercontent.com/98812321/157239147-4fc48031-c8a3-4537-93d7-0ce8bca85709.png)
 
