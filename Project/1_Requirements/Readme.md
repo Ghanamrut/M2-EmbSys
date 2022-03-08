@@ -17,10 +17,7 @@ Version: - 1.0
 **3)** [**Components Details**](#_Toc96252509)
 
 **A) UGV Simulation**
-![Screenshot (1141)](https://user-images.githubusercontent.com/98812321/157238873-37d18e24-9133-4f2a-9936-158b2cbf38b5.png)
-
 **B) Arm Simulation**
-![Screenshot (1140)](https://user-images.githubusercontent.com/98812321/157238892-f1a40192-ea61-4a86-8ce6-2b98b6fdcd58.png)
 
 **4) S.W.O.T Analysis**
 
@@ -73,24 +70,12 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
 # 3.  **Component Details: -**
 
 2.  UGV simulation:-
+![Screenshot (1141)](https://user-images.githubusercontent.com/98812321/157239055-c3db479e-e0d9-49cf-894d-e71ea4b930f5.png)
 
-| Symbols Used | Amount | Components                     |
-|--------------|--------|--------------------------------|
-| U1           | 1      | Arduino Uno                    |
-| M1,M2        | 2      | DC Motor                       |
-| U2           | 1      | L298P Dual Full- Bridge Driver |
-| JSS          | 1      |  Joystick (KY023) Sensor       |
-| US           | 1      | Ultrasonic(HC-SR04) Sensor     |
-| DISP         | 1      | Hd44780 LCD Display            |
-| R            | 1      | 1K                             |
 
 1.  Arm simulation:-
 
-| Symbols Used                                  | Amount | Components    |
-|-----------------------------------------------|--------|---------------|
-| U1,U2                                         | 2      | Arduino Uno   |
-| P1,P2,P3,P4,P5,P6                             | 6      | Potentiometer |
-| Servo1, Servo2, Servo3, Servo4, Servo5,Servo6 | 6      | Servo Motor   |
+![Screenshot (1140)](https://user-images.githubusercontent.com/98812321/157239147-4fc48031-c8a3-4537-93d7-0ce8bca85709.png)
 
 1.  Microcontroller: -
 
