@@ -24,17 +24,25 @@ Version: - 1.0
 **5) 5 Ws 1H**
 
 **6) Structural Design**
+
 **Block Diagram**
-**A)** [**UGV**]
-**B)** [**Robotic Arm**]
+
+**A)**UGV**
+
+**B)**Robotic Arm**
 
 **7) Behavioral Design**
+
 **Flowchart**
-**A)** [**UGV**]
-**B)** [**Robotic Arm**]
+
+**A)** UGV**
+
+**B)** Robotic Arm**
 
 **8) Implementation**
+
 **9) Test Plan and Output**
+
 **10) Applications**
 
 **11) Modifications According To Application**
@@ -142,120 +150,4 @@ Potentiometer, Joystick) to facilitate wheel and finger, wrist movement.
 
 -   **Strength: -**
 
-1.  **Reduced Task Time: -** The required time for a simple pick and place task
-    or a weed plugging task or any other simple task that the system is used for
-    is very less compared to a human being involved in the same.
-
-2.  **Cost Effective: -** The embedded system design is very cost effective as
-    microcontrollers demand increases and cost decreases day by day giving
-    further advantage over high cost and complex machinery.
-
-3.  **Greater Precision: -** A robotic arm gives higher precision than a human
-    arm in various tasks such as minute incisions for surgeries, bomb defusal,
-    in firecracker industry, etc where the slightest error of a human hand can
-    pose a greater risk.
-
-4.  **Adaptability: -** The system can be fitted with the necessary sensors and
-    actuators and can be used for various task specific applications just by
-    making small changes.
-
-5.  **User Friendly: -** Every attempt of making an embedded system is always
-    towards creating a automatic more user friendly tool.
-
--   **Weakness: -**
-
-1.  **Limitations: -** The System has its limitations when it comes to handling
-    a certain amount of weight for carrying an object and in certain cases power
-    autonomy issues might be faced but these can be solved through making
-    application specific system.
-
-2.  **Supervision Required: -** In certain situations like medical surgeries
-    there is always a certain amount of risk and therefore robotic arm systems
-    cannot be left fully on their own and need supervision.
-
-3.  **Movement Restriction: -** The system when made with certain limitations
-    such as non-inclusion of certain actuators or sensors can deprive it of
-    certain movements for example the actual degree of freedom of a human arm is
-    difficult to achieve without using certain rotary actuators.
-
--   **Threat: -**
-
-1.  **Competition to Human Labor: -** As technology advances the human labor
-    need reduces and leads to unemployment in various sectors of certain
-    industries which is in a way inevitable.
-
-2.  **Human Robot Work Safety: -** The risks of hardware failure or wiring
-    issues, etc could lead to different scenarios that pose certain safety
-    concerns.
-
--   **Opportunities: -**
-
-1.  **Boom In Automation Industry: -** The advancement in technology promoting
-    more use of automation and robotics is a golden opportunity for such
-    projects.
-
-2.  **Increased Availability: -** The demand in robotic equipment and embedded
-    system hardware and software required has risen highly leading to their
-    availability in the market at low costs.
-
-# 5.  **5 Ws And 1 H: -**
-
-1.  **Why: -** The Project is made to achieve the embedded system design for a
-    robotic arm mounted on a UGV used for various functions and applications.
-
-2.  **What: -** The Project utilizes Microcontrollers, various types of analog
-    and digital sensors such as Joystick sensor and Ultrasonic sensor to actuate
-    different motors which facilitate the movement of the UGV as well as the
-    robotic arm.
-
-3.  **Who: -** The Project is aimed for application in sectors such as Medical,
-    Military, Industrial, Agriculture and Transport.
-
-4.  **When: -** The Project shall be completed in 4 weeks’ time.
-
-5.  **Where: -** The Project shall be made on Simulide software and visual
-    studio code.
-
-6.  **How: -** The Project shall be completed step by step capturing the
-    requirements, sketching out the block diagrams and flowchart, deciding the
-    components and code design, building the circuit, utilize the code for the
-    circuit and upon completion of these steps finally the project shall achieve
-    a successful simulation of an embedded system design for a robotic arm
-    mounted on a UGV.
-
-# **6. Applications**: -
-
-The applications of UGVs and Bionic arms can be combined and integrated ahead to
-be converted into other applications such as:-
-
-1) Pick and place functions.
-
-2) Fire extinguishing operations.
-
-3) Bomb defusal.
-
-4) Medical surgery for remote use.
-
-5) Sanitization purposes. (UV light spreading or sanitizer spraying)
-
-6) Agricultural functions (weed plucking, pesticide spraying, etc.).
-
-7) Firecrackers industry.
-
-8) Nuclear plant projects, thermal power plants.
-
-9) Military Applications and operations.
-
-10) Waste management.
-
-# 7.  **Modifications According to Application: -**
-
-1.  Moisture Sensor: - Can be added to below UGV to detect soil moisture if the
-    project is to be applied for agricultural purposes.
-
-2.  Sanitizer Spray: - Can be added if project is to be applied in hospitals,
-    offices for sanitization processes.
-
-3.  Accelerometers and Gyroscope: - Can be added when the arm is needed for
-    higher accuracy purposes such as medical surgery then wrist will require all
-    around movement exactly replicating human wrist.
+1.  **Reduced Task Time
