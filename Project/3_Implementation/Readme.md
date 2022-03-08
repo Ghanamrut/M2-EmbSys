@@ -6,7 +6,7 @@
  
 
 
-# ** Code:- 
+** Code:- **
 #include <LiquidCrystal.h> 
 #include <DC_Motor.h>
 #define echoPin 2 // attach pin D2 Arduino to pin Echo of HC-SR04
