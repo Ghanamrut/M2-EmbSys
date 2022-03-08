@@ -1,11 +1,13 @@
 # Implementation: -
 •	The Project simulation is done in Simulide software using Arduino code written in Arduino Ide. There are three code files for each Arduino Uno 1) For UGV Simulation 2)For Wrist Movement Simulation 3)Finger Movement Simulation.
-#	Circuit Diagrams And Code: -
-## 1)	UGV
-## Circuit Diagram: -
- 
+## Circuit Diagrams And Code: -
+### 1)	UGV
+#### Circuit Diagram: -
+ ![image](https://user-images.githubusercontent.com/98812321/157229075-587cff09-bda4-4432-950c-0c2f705bdb54.png)
 
-## Code:- 
+
+
+#### Code:- 
 #include <LiquidCrystal.h> 
 #include <DC_Motor.h>
 #define echoPin 2 // attach pin D2 Arduino to pin Echo of HC-SR04
@@ -160,11 +162,12 @@ y_value = analogRead(A1);
 
 
 
-# 2)	 Wrist Movement: -
-# Circuit Diagram: -
- 
+### 2)	 Wrist Movement: -
+#### Circuit Diagram: -
+ ![image](https://user-images.githubusercontent.com/98812321/157229184-3ac001f8-3851-4876-a180-313e4a85ced1.png)
 
-Code : - 
+
+#### Code : - 
 #include <Servo.h>
 
 Servo wrist;  
@@ -183,10 +186,12 @@ void loop()
   val1 = map(val1, 0, 1023, 0, 185 );
   wrist.write(val1);    
 }
-# 3)	Finger Movement: -
-# Circuit Diagram: -
- 
- # Code : - 
+### 3)	Finger Movement: -
+#### Circuit Diagram: -
+ ![image](https://user-images.githubusercontent.com/98812321/157229224-9097c90d-46f5-4684-870f-fd6219915c04.png)
+
+
+#### Code : - 
 #include <Servo.h>
 //Declaring Variables for servo motors, potentiometers and the value from the potentiometer
 Servo index_finger;  
