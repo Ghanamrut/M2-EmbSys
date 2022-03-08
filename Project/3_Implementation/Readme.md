@@ -3,6 +3,7 @@
 1) For UGV Simulation 
 2)For Wrist Movement Simulation 
 3)Finger Movement Simulation.
+The UGV , Wrist Movement , and Finger movement folders respectively have the .ino, .hex, and .ino files for the codes inside them
 ## Circuit Diagrams And Code: -
 ### 1)	UGV
 #### Circuit Diagram: -
