@@ -17,8 +17,10 @@ Version: - 1.0
 **3)** [**Components Details**](#_Toc96252509)
 
 **A) UGV Simulation**
+![Screenshot (1141)](https://user-images.githubusercontent.com/98812321/157238873-37d18e24-9133-4f2a-9936-158b2cbf38b5.png)
 
 **B) Arm Simulation**
+![Screenshot (1140)](https://user-images.githubusercontent.com/98812321/157238892-f1a40192-ea61-4a86-8ce6-2b98b6fdcd58.png)
 
 **4) S.W.O.T Analysis**
 
